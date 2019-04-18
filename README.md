@@ -12,4 +12,8 @@ Bu eklenti ile aşağıdaki işlemleri yapabileceksiniz.
 
 Senkronizasyon işlemine **varyasyon bilgileri dahildir.**
 
+UZMANKİRALA MARKET
 [HEMEN SATIN AL](http://market.uzmankirala.com/recepuncu/wordpress-woocommerce-n11-entegrasyon/)
+
+BİONLUK MARKET
+[HEMEN SATIN AL](https://bionluk.com/recepuncu/woocommerce-ve-n11-entegrasyonu-yaparim-148582)
