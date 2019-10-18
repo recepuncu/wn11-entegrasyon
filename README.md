@@ -7,6 +7,7 @@
 Bu eklenti ile aşağıdaki işlemleri yapabileceksiniz.
 
   - n11 api erişim bilgilerinizi kayıt edebileceğiniz ekran,
+  - Mağaza tercihleri ekranı,
   - kategori eşleştirme ekranı,
   - ürün senkronizasyon ekranı
 
